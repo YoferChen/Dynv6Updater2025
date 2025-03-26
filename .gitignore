@@ -1,0 +1,6 @@
+/dynv6.conf
+/dynv6.log
+/build
+/dist
+*.spec
+__pycache__
